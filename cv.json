@@ -38,32 +38,32 @@
       "url": "",
       "area": "E.S.O",
       "studyType": "Estudiante Tiempo Completo",
-      "startDate": "2016-9-01",
-      "endDate": "2020-6-30"
+      "startDate": "01-09-2016",
+      "endDate": "30-06-2020"
     },
     {
       "institution": "I.E.S Los Cerros",
       "url": "",
       "area": "Técnico Medio: Sistemas Microinformáticos y Redes",
       "studyType": "Estudiante Tiempo Completo",
-      "startDate": "2020-9-01",
-      "endDate": "2022-6-30"
+      "startDate": "01-09-2020",
+      "endDate": "30-06-2022"
     },
     {
       "institution": "I.E.S Los Cerros",
       "url": "",
       "area": "Técnico Superior: Administración de Sistemas y Servidores en Red",
       "studyType": "Estudiante Tiempo Completo",
-      "startDate": "2022-9-01",
-      "endDate": "2024-6-30"
+      "startDate": "01-09-2022",
+      "endDate": "30-06-2024"
     },
     {
-      "institution": "I.E.S Juan Lopez Morillas",
+      "institution": "Colegio Nuestra Señora de las Mercedes Granada",
       "url": "",
-      "area": "E.S.O",
+      "area": "Especialización: Ciberseguridad",
       "studyType": "Estudiante Tiempo Completo",
-      "startDate": "2016-9-01",
-      "endDate": "2020-6-30"
+      "startDate": "01-09-2024",
+      "endDate": "30-05-2025"
     }
   ],
   "certificates": [
