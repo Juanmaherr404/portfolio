@@ -6,7 +6,7 @@
     "label": "Administrador de Sistemas Informáticos y Servicios en Red",
     "image": "/avatar.png",
     "email": "juanmanuelherrera7195@gmail.com",
-    "url": "https://www.gcxstudio.cn",
+    "url": "",
     "summary": "Soy informático desde 2022, titulado de Administración de Sistemas Informáticos y Redes en 2024. Actualmente, estudio un especialización en Ciberseguridad.",
     "theme": "blue",
     "location": {
@@ -68,48 +68,44 @@
   ],
   "certificates": [
     {
-      "name": "Success has lived a day in the world.",
-      "date": "2010-04-14",
-      "url": "",
-      "issuer": "Myself"
+      "name": "Mysql",
+      "date": "2024-04-23",
+      "url": "https://openwebinars.net/cert/kFFD",
+      "issuer": "Open Webinars"
     },
     {
-      "name": "TCCP - Senior Cloud Architecture Engineer",
-      "date": "2023-05-01",
-      "url": "",
-      "issuer": "Tencent Cloud"
+      "name": "Python",
+      "date": "2024-04-22",
+      "url": "https://openwebinars.net/cert/pzCY",
+      "issuer": "Open Webinars"
+    },
+    {
+      "name": "Shell en Linux",
+      "date": "2024-05-06",
+      "url": "https://openwebinars.net/cert/CmcQ",
+      "issuer": "Open Webinars"
     }
   ],
   "work": [
     {
-      "name": "Sgguo Development Team",
-      "position": "Full-stack Developer",
-      "location_type": "Remote",
-      "location": "CN",
+      "name": "Unidad Informática Hospital San Juan de la Cruz",
+      "position": "Técnico Informático",
+      "location_type": "Presencial",
+      "location": "úbeda (Jaén), España",
       "url": "https://github.com/Sgguo-Development-Team",
-      "startDate": "2022-06-01",
-      "endDate": null,
-      "summary": "Developing high-availability full-stack projects.",
+      "startDate": "2022-03-01",
+      "endDate": "2022-06-30",
+      "summary": "Resolver incidencias de hardware y software en el área de Tecnologica Informática.",
       "highlights": [
-        "Enhanced internal workflow efficiency by 30%."
+        
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Node.js and Golang."
+        
       ],
       "achievements": [
-        "Implemented a cloud drive and verification code system."
+        
       ],
       "skills": {
-        "PHP": "simple-icons:php",
-        "Node": "ri:nodejs-line",
-        "Golang": "simple-icons:go",
-        "Next.js": "ri:nextjs-fill",
-        "React": "mdi:react",
-        "SQL": "simple-icons:mysql",
-        "Git": "mdi:git",
-        "GitHub": "mdi:github",
-        "NestJS": "simple-icons:nestjs",
-        "Vue": "mdi:vuejs"
       }
     },
     {
@@ -181,17 +177,6 @@
       ]
     },
     {
-      "name": "Tailwind",
-      "icon": "mdi:tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
       "name": "TypeScript",
       "icon": "simple-icons:typescript",
       "level": "Expert",
@@ -225,17 +210,6 @@
       ]
     },
     {
-      "name": "MongoDB",
-      "icon": "simple-icons:mongodb",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "File",
-        "Data Storage",
-        "Backend"
-      ]
-    },
-    {
       "name": "Git",
       "icon": "mdi:git",
       "level": "Intermediate",
@@ -256,40 +230,7 @@
         "Git"
       ]
     },
-    {
-      "name": "Next.js",
-      "icon": "ri:nextjs-line",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "icon": "mdi:react",
-      "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "Vue",
-      "icon": "mdi:vuejs",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
+
     {
       "name": "Docker",
       "icon": "mdi:docker",
@@ -300,26 +241,6 @@
       ]
     },
     {
-      "name": "NestJS",
-      "icon": "simple-icons:nestjs",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "IOC"
-      ]
-    },
-    {
-      "name": "Vite",
-      "icon": "simple-icons:vite",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Build Tool"
-      ]
-    },
-    {
       "name": "WordPress",
       "icon": "ri:wordpress-fill",
       "level": "Intermediate",
@@ -327,15 +248,6 @@
         "PHP",
         "Fullstack",
         "Frontend"
-      ]
-    },
-    {
-      "name": "Golang",
-      "icon": "simple-icons:go",
-      "level": "Beginner",
-      "keywords": [
-        "Backend",
-        "Cloud Service"
       ]
     },
     {
@@ -370,43 +282,6 @@
       ]
     },
     {
-      "name": "Tauri",
-      "icon": "simple-icons:tauri",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Rust",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Rust",
-      "icon": "simple-icons:rust",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Socket.IO",
-      "icon": "simple-icons:socketdotio",
-      "level": "Beginner",
-      "keywords": [
-        "Realtime",
-        "Websocket"
-      ]
-    },
-    {
-      "name": "Electron",
-      "icon": "simple-icons:electron",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Webview"
-      ]
-    },
-    {
       "name": "Shell",
       "icon": "simple-icons:shell",
       "level": "Intermediate",
@@ -424,102 +299,34 @@
         "Scripting",
         "Automation"
       ]
-    },
-    {
-      "name": "Vercel",
-      "icon": "simple-icons:vercel",
-      "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
-    },
-    {
-      "name": "Netlify",
-      "icon": "simple-icons:netlify",
-      "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
-    },
-    {
-      "name": "Tencent Cloud",
-      "icon": "simple-icons:tencentqq",
-      "level": "Intermediate",
-      "keywords": [
-        "Cloud Service"
-      ]
-    },
-    {
-      "name": "Cloudflare Edge Functions",
-      "icon": "simple-icons:cloudflare",
-      "level": "Expert",
-      "keywords": [
-        "Serverless",
-        "Edge Computing"
-      ]
     }
   ],
   "languages": [
     {
-      "language": "Chinese",
-      "fluency": "Native speaker"
+      "language": "Español",
+      "fluency": "Idioma Nativo"
     },
     {
-      "language": "English",
-      "fluency": "Intermediate"
+      "language": "Inglés",
+      "fluency": "Intermedio"
     }
   ],
   "interests": [
     {
-      "name": "Technology",
+      "name": "",
       "keywords": [
-        "AI",
-        "Blockchain"
+        "",
+        ""
       ]
     }
   ],
   "references": [
     {
-      "name": "MiraHikari",
-      "reference": "Reference…"
+      "name": "",
+      "reference": ""
     }
   ],
   "projects": [
-    {
-      "name": "Cloudflare Vmail",
-      "image": {
-        "url": "https://i0.hdslb.com/bfs/article/985e2caa8266dee4b9861ee6a341886d480025691.png@1e_1c.webp",
-        "position": "container",
-        "dark": "https://i0.hdslb.com/bfs/article/4d0bf8a784d22e54e3e61763c361c9ef480025691.png@100q_1e_1c.webp"
-      },
-      "isActive": true,
-      "description": "An open source temporary email tool, fully on Cloudflare. Inspired by oiov/vmail",
-      "highlights": [
-        "🎯 Privacy-friendly, no registration required, out-of-the-box",
-        "✨ Support saving passwords and retrieving email addresses",
-        "😄 Support multiple domain name suffixes",
-        "🚀 100% open source, fully based on Cloudflare."
-      ],
-      "url": "https://what-the-fuck.sbs",
-      "github": "https://github.com/MiraHikari/cloudflare-vmail"
-    },
-    {
-      "name": "Riddle Town Hunt 2",
-      "image": {
-        "url": "https://rth2-webstatic.gbclstudio.cn/wp-content/uploads/2024/02/1707656250-76b2b0d2c94824e89a2b8b2c7d1c6afe.png",
-        "position": "background"
-      },
-      "isActive": true,
-      "description": "Public decryption activity in the form of Puzzle Hunt.",
-      "highlights": [
-        "👌 More than 1000 people participated, system runs normally",
-        "😮‍ Use headless CMS: WordPress to storage and manage contents, dynamically render page",
-        "😊 Windows-like interface",
-        "💕 Based on Astro"
-      ],
-      "url": "https://rth2.gcxstudio.cn/"
-    }
+    
   ]
 }
