@@ -35,7 +35,7 @@
   "education": [
     {
       "institution": "I.E.S Juan Lopez Morillas",
-      "url": "",
+      "url": "https://iesjuanlopezmorillas.es/",
       "area": "E.S.O",
       "studyType": "Estudiante Tiempo Completo",
       "startDate": "2016-9-01",
@@ -43,7 +43,7 @@
     },
     {
       "institution": "I.E.S Los Cerros",
-      "url": "",
+      "url": "https://loscerros.org/",
       "area": "Técnico Medio: Sistemas Microinformáticos y Redes",
       "studyType": "Estudiante Tiempo Completo",
       "startDate": "2020-9-01",
@@ -51,7 +51,7 @@
     },
     {
       "institution": "I.E.S Los Cerros",
-      "url": "",
+      "url": "https://loscerros.org/",
       "area": "Técnico Superior: Administración de Sistemas y Servidores en Red",
       "studyType": "Estudiante Tiempo Completo",
       "startDate": "2022-9-01",
@@ -59,7 +59,7 @@
     },
     {
       "institution": "Colegio Nuestra Señora de las Mercedes Granada",
-      "url": "",
+      "url": "https://fp.mercedarias.es/granada/",
       "area": "Especialización: Ciberseguridad",
       "studyType": "Estudiante Tiempo Completo",
       "startDate": "2024-9-01",
@@ -90,9 +90,9 @@
     {
       "name": "Unidad Informática Hospital San Juan de la Cruz",
       "position": "Técnico Informático",
-      "location_type": "Presencial",
-      "location": "úbeda (Jaén), España",
-      "url": "https://github.com/Sgguo-Development-Team",
+      "location_type": "Prácticas FP",
+      "location": "Úbeda (Jaén), España",
+      "url": "",
       "startDate": "2022-03-01",
       "endDate": "2022-06-30",
       "summary": "Resolver incidencias de hardware y software en el área de Tecnologica Informática.",
@@ -100,48 +100,34 @@
         
       ],
       "responsibilities": [
-        
+        "Resposanble en el mantenimiento de los equipos informáticos, reemplazando componentes y reparaciones de componentes."
       ],
       "achievements": [
-        
+        "Conseguír reparar casi todo tipo de dispositivos desde ordenadores de sobremesa hasta impresoras."
       ],
       "skills": {
       }
     },
     {
-      "name": "Riddle Town Team",
-      "position": "Full-stack Developer",
-      "location_type": "Remote",
-      "location": "CN",
-      "url": "https://rth2.gcxstudio.cn",
-      "startDate": "2023-01-01",
-      "endDate": "2024-02-11",
-      "summary": "Led page design and account systems.",
+      "name": "Soluciones Center ",
+      "position": "Tecnico Informático",
+      "location_type": "Prácticas FP",
+      "location": "Úbeda (Jaén), España",
+      "url": "https://solucionescenter.com/",
+      "startDate": "2024-03-01",
+      "endDate": "2024-06-20",
+      "summary": "Creador de sitios web para empresas y particulares.",
       "highlights": [
-        "Completed 95% of project content."
+        ""
       ],
       "responsibilities": [
-        "Developed complete pages.",
-        "Integrated user-facing elements with server-side logic."
+        "Creador de sitios web y posicionamiento SEO."
       ],
       "achievements": [
-        "Ensured smooth project execution."
+        "Conseguí crear varios sitios web, y posicionarlos con éxito en los primero puestos de busqueda."
       ],
       "skills": {
-        "HTML": "simple-icons:html5",
-        "CSS": "ri:css3-fill",
-        "JavaScript": "simple-icons:javascript",
-        "TypeScript": "simple-icons:typescript",
-        "Vite": "simple-icons:vite",
-        "Node": "ri:nodejs-line",
-        "Docker": "mdi:docker",
-        "WordPress": "ri:wordpress-fill",
-        "Astro": "simple-icons:astro",
-        "SQL": "simple-icons:mysql",
-        "Tailwind": "mdi:tailwind",
-        "React": "mdi:react",
-        "GitHub": "mdi:github",
-        "Git": "mdi:git"
+        
       }
     }
   ],
