@@ -4,14 +4,14 @@
   "basics": {
     "name": "Juan Manuel Herrera Domínguez",
     "label": "Administrador de Sistemas Informáticos y Servicios en Red",
-    "image": "/avatar.png",
+    "image": "/avatar.jpg",
     "email": "juanmanuelherrera7195@gmail.com",
     "url": "",
-    "summary": "Soy informático desde 2022, titulado de Administración de Sistemas Informáticos y Redes en 2024. Actualmente, estudio un especialización en Ciberseguridad.",
+    "summary": "Soy informático desde 2022, titulado de Administración de Sistemas Informáticos y Redes en 2024. Especializado en ciberseguridad en 2025.",
     "theme": "blue",
     "location": {
-      "address": "Jódar",
-      "city": "Jaén",
+      "address": "Granada",
+      "city": "Granada",
       "countryCode": "EU",
       "region": "España"
     },
@@ -63,7 +63,7 @@
       "area": "Especialización: Ciberseguridad",
       "studyType": "Estudiante Tiempo Completo",
       "startDate": "2024-9-01",
-      "endDate": "2025-6-30"
+      "endDate": "2025-5-30"
     }
   ],
   "certificates": [
